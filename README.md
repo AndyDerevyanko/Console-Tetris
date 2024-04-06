@@ -21,10 +21,15 @@
 
 ## ❓ What is TETRIS?
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/logo.png" alt="tetris logo" width="200">
-  Tetris, created in 1985 by Soviet software engineer Alexey Pajitnov, is a renowned puzzle video game. Initially published by Nintendo, the rights later reverted to Pajitnov in 1996, leading to the formation of the Tetris Company with Henk Rogers for licensing management. The game involves arranging tetrominoes to complete lines, earning points as lines disappear. The goal is to prevent uncleared lines from reaching the top. With simple rules, Tetris became a video game masterpiece, selling 202 million copies by December 2011 and holding a Guinness world record for the most ported game on over 65 platforms. Its influence extends to popular culture, architecture, music, and cosplay, while research studies explore its theoretical complexity and the Tetris effect on the human brain.
-</p>
+<div>
+    <div>
+        <img src= "https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/logo.png"
+			 alt="tetris logo" width="200">
+    </div>	
+	<p>
+		Tetris, created in 1985 by Soviet software engineer Alexey Pajitnov, is a renowned puzzle video game. Initially published by Nintendo, the rights later reverted to Pajitnov in 1996, leading to the formation of the Tetris Company with Henk Rogers for licensing management. The game involves arranging tetrominoes to complete lines, earning points as lines disappear. The goal is to prevent uncleared lines from reaching the top. With simple rules, Tetris became a video game masterpiece, selling 202 million copies by December 2011 and holding a Guinness world record for the most ported game on over 65 platforms. Its influence extends to popular culture, architecture, music, and cosplay, while research studies explore its theoretical complexity and the Tetris effect on the human brain.
+	</p>
+</div>
 
 
 ## 🌟 Controls
@@ -40,7 +45,8 @@
 
 Try out a working demo [here](https://onlinegdb.com/ziifCCCxY).
 
-<p align="left">
+
+<p align="left" style="">
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/demo.png" alt="demo" width="300">
 </p>
 
