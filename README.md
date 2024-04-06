@@ -31,7 +31,6 @@ Tetris, created in 1985 by Soviet software engineer Alexey Pajitnov, is a renown
 **D** - Move block right </br>
 **Z** - Rotate block counter-clockwise </br>
 **C** - Rotate block clockwise </br>
-</br></br>
 **Spacebar** - Drop block Instantly 
 
 ## 🎮 Working Demo
@@ -90,7 +89,8 @@ UML Diagrams for each object are available below:
 ### Interested in how this project was developed?
 A PERT chart is shown below. Keep in mind this project was created on REPLIT before being integrated into Github.
 
-### [View my REPLIT profile](https://replit.com/@AndyDerevyanko) ###
+### [View my REPLIT profile](https://replit.com/@AndyDerevyanko) ### <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/replit.png" width="50" align="right">
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/PERT.png" alt="pert chart" width="900">
