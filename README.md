@@ -89,9 +89,7 @@ UML Diagrams for each object are available below:
 ### Interested in how this project was developed?
 A PERT chart is shown below. Keep in mind this project was created on REPLIT before being integrated into Github.
 
-<div style="margin-top: 5px;">
-  **[View my REPLIT profile](https://replit.com/@AndyDerevyanko)** <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/replit.png" alt="pert chart" width="20" style="vertical-align: middle; margin-right: 5px;">
-</div>
+### [View my REPLIT profile](https://replit.com/@AndyDerevyanko) ### 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/Console-Tetris/main/images/PERT.png" alt="pert chart" width="900">
